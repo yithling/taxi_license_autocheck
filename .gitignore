@@ -1,0 +1,10 @@
+.env  
+.DS_Store  
+*.png  
+*.lock  
+*.log
+*.txt
+__pycache__/
+db.db
+
+
